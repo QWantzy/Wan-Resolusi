@@ -1,9 +1,7 @@
 RENCANA WAN 
 
 - Project JavaScript
-  ^ Vue
 - Project PHP 
-  ^ Project Laravel 
 - Project HTML dan CSS
 - Project Bootsrap 5 
 
