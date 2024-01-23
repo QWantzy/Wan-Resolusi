@@ -1,9 +1,18 @@
-RENCANA WAN 
+--\\-- RENCANA WAN --//--
 
+Berikut Rencana 2024 :
 - Project JavaScript
+  ^ Vue JS
+  ^ React JS
+
 - Project PHP 
+  ^ PHP Dasar 
+  ^ Framework Laravel 
+  
 - Project HTML dan CSS
-- Project Bootsrap 5 
+  ^ CSS3
+  ^ Bootsrap 5 
+  ^ Tailwind CSS
 
 Catatan : Untuk Reverensi TA.
 
