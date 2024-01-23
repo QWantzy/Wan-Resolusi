@@ -1,2 +1,2 @@
 # Wan-Resolusi
-Repository untuk menyimpan rencana wann kedepannnya
+Repository untuk menyimpan rencana wann kedepannnya 
