@@ -1,9 +1,16 @@
 RENCANA WAN 
 
 - Project JavaScript
+  ^ Vue
 - Project PHP 
-- Project Laravel 
+  ^ Project Laravel 
 - Project HTML dan CSS
 - Project Bootsrap 5 
 
-Catatan : Untuk Reverensi TA 
+Catatan : Untuk Reverensi TA.
+
+---------
+
+Focus 2024 : 
+1. Belajar GIT.
+2. PHP 
