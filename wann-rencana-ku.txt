@@ -1,13 +1,15 @@
 --\\-- RENCANA WAN --//--
 
 Berikut Rencana 2024 :
+
 - Project JavaScript
+  ^ Angular
   ^ Vue JS
   ^ React JS
 
 - Project PHP 
   ^ PHP Dasar 
-  ^ Framework Laravel 
+  ^ Framework Laravel
   
 - Project HTML dan CSS
   ^ CSS3
